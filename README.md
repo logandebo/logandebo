@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Logan.
-- 🌱 I’m currently learning software development using python.
+- 👋 Hi, my name is Logan Debogorski.
+- 🌱 I’m currently working on imporving my skills with python, along with web development languages such as HTML, CSS, and Javascript.
 - 📫 How to reach me: Email- logan.debogorski@gmail.com
 
 <!---
